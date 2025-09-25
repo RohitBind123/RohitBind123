@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Hello+World%2C+I'm+Rohit+Bind!;AI+Engineer+%26+Data+Enthusiast;Final+Year+Manufacturing+Engineer;Building+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Hello+World%2C+I'm+Rohit+Bind!;AI+Engineer+%26+Data+Enthusiast;Manufacturing+Engineer+Graduate;Building+the+Future+with+AI" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%26+Data+Scientist;Manufacturing+Engineer;Python+%26+ML+Enthusiast;Open+to+Collaborate!&center=true&size=30">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%26+Data+Scientist;Manufacturing+Engineer+Graduate;Python+%26+ML+Enthusiast;Open+to+Collaborate!&center=true&size=30">
   </a>
 </h1>
 
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-👋 **Hello! I'm Rohit Bind** - A passionate **AI Engineer** and **Final-year Manufacturing Engineering student** at **BITS Pilani**, driven by the intersection of **Artificial Intelligence**, **Data Science**, and **Industrial Applications**.
+👋 **Hello! I'm Rohit Bind** - A passionate **AI Engineer** and **Manufacturing Engineering graduate** from **BITS Pilani, Pilani Campus**, driven by the intersection of **Artificial Intelligence**, **Data Science**, and **Industrial Applications**.
 
 🔭 Currently working as an **AI Engineer Intern** at **Satsure.co**, where I've designed multi-stage re-ranking systems, vectorized 400k+ data points, and reduced query latency from hours to minutes!
 
@@ -99,7 +99,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Repositories
 
 <div align="center">
   <a href="https://github.com/RohitBind123?tab=repositories">
@@ -131,7 +131,7 @@
 
 ---
 
-### 📄 **GenAI-Powered PDF Chatbot (RAG)**
+### 📄 **PDF RAG Chatbot with Groq LLM**
 [![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/Chat-with-PDF-using-Groq-LLM)
 - 🎯 **89% Q&A accuracy** using Gemini-Pro & LangChain RAG
 - 🛡️ **95% context relevance** with optimized prompt templates
@@ -141,7 +141,7 @@
 
 ---
 
-### 🔍 **CNN-Based 3D Printing Defect Detection**
+### 🔍 **Surface Crack Detection System**
 [![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/Crack_detection-)
 - 🎯 **92% accuracy** in crack identification using PyTorch CNN
 - 🚀 **Real-time deployment** via Flask API on AWS EC2
@@ -151,13 +151,33 @@
 
 ---
 
-### 🤖 **Fine-tuned Language Models**
+### 🤖 **Falcon LLM Sentiment Analysis**
 [![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/falcon-lora-imdb-sentiment)
 - 🔥 **Falcon-RW-1B fine-tuning** using LoRA & PEFT
 - 📊 **IMDB sentiment analysis** with efficient parameter updates
 - ⚡ **Memory-efficient training** for resource optimization
 
 **Tech Stack:** `LoRA` `PEFT` `Falcon-RW-1B` `Sentiment Analysis`
+
+---
+
+### 💰 **Intelligent Loan Approval Predictor**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/Loan_prediction)
+- 📊 **Machine Learning model** for loan approval prediction
+- 🎯 **Data preprocessing and feature engineering**
+- 📈 **Model performance optimization** and validation
+
+**Tech Stack:** `Python` `Scikit-learn` `Pandas` `Jupyter Notebook`
+
+---
+
+### 🐔 **Poultry Disease Classification System**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/chicken_diesease_classification-_project)
+- 🔬 **Deep Learning model** for chicken disease detection
+- 📱 **Computer vision application** for agricultural use
+- 🎯 **Image classification** with high accuracy
+
+**Tech Stack:** `Deep Learning` `Computer Vision` `Image Classification`
 
 ---
 
@@ -175,7 +195,7 @@
 
 ## 🎓 Education
 
-**🏛️ BITS Pilani, Pilani Campus** *(Expected: May 2025)*
+**🏛️ BITS Pilani, Pilani Campus** *(Graduated: May 2025)*
 - **B.E. Manufacturing Engineering**
 - **Relevant Coursework:** Supply Chain Management, Risk Management Derivatives, Probability & Statistics
 - **Focus Areas:** AI/ML applications in Manufacturing, Data Analytics, Process Optimization
@@ -190,7 +210,7 @@ class RohitBind:
         self.name = "Rohit Bind"
         self.role = "AI Engineer & Data Scientist"
         self.location = "India"
-        self.education = "BITS Pilani - Manufacturing Engineering"
+        self.education = "BITS Pilani - Manufacturing Engineering Graduate"
         
     def current_focus(self):
         return [
@@ -221,7 +241,7 @@ print("Let's build something amazing together! 🚀")
   <a href="mailto:rohitbind013@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/rohitbind123">
+  <a href="https://www.linkedin.com/in/rohit-bind-b625a0249/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/RohitBind123">
