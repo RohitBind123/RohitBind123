@@ -1,3 +1,5 @@
+<!-- Profile last updated: September 25, 2025 -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Hello+World%2C+I'm+Rohit+Bind!;AI+Engineer+%26+Data+Enthusiast;Manufacturing+Engineer+Graduate;Building+the+Future+with+AI" alt="Typing SVG" />
 </div>
