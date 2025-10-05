@@ -114,13 +114,16 @@
 
 ---
 
-### 🐔 **Poultry Disease Classification System**
+### 🐔 **🚀 Advanced Hybrid Search & Reranking Engine**
 [![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/ADVANCE_RAG)
-- 🔬 **Deep Learning model** for chicken disease detection
-- 📱 **Computer vision application** for agricultural use
-- 🎯 **Image classification** with high accuracy
+ 🔬 Advanced RAG System for production-ready document retrieval
+  - 🧠 Hybrid Search implementation combining semantic (E5 embeddings) and lexical (BM25) search
+  - 🎯 Cross-Encoder Reranking using BAAI/bge-reranker-large for precise relevance scoring
+  - 🗺️ Domain-Aware Scoring with intelligent geo-hierarchical matching
+  - 🚀 Reciprocal Rank Fusion (RRF) for optimal result merging from multiple retrieval methods
+  - 💡 Advanced NLP techniques including query expansion, fuzzy matching, and keyword boosting
 
-**Tech Stack:** `Deep Learning` `Computer Vision` `Image Classification`
+**Tech Stack:** ` Python Deep Learning NLP Information Retrieval Weaviate Sentence Transformers Hugging Face`
 
 ---
 ### 🛡️ **Financial Fraud Detection System**
