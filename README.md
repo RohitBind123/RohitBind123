@@ -187,13 +187,13 @@
 
 ---
 
-### 🐔 **Poultry Disease Classification System**
-[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/chicken_diesease_classification-_project)
-- 🔬 **Deep Learning model** for chicken disease detection
-- 📱 **Computer vision application** for agricultural use
-- 🎯 **Image classification** with high accuracy
+### **Intelligent PDF Document Parser**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/OCR-PDF-Extractor)
+Python application to parse and extract structured content (text, tables, charts) from
+      PDF documents, converting them into a clean, hierarchical JSON format.
 
-**Tech Stack:** `Deep Learning` `Computer Vision` `Image Classification`
+**Tech Stack:** ` Python, PyMuPDF (fitz), PDFPlumber, pdfminer.six, Pillow, Pytesseract (Tesseract OCR), Pydantic,
+   Camelot`
 
 ---
 
