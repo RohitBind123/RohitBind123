@@ -114,7 +114,7 @@
 
 ---
 
-### **🚀 Advanced Hybrid Search & Reranking Engine**
+### **🚀 Advanced (RAG) Hybrid Search & Reranking Engine**
 [![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/ADVANCE_RAG)
  🔬 Advanced RAG System for production-ready document retrieval
   - 🧠 Hybrid Search implementation combining semantic (E5 embeddings) and lexical (BM25) search
