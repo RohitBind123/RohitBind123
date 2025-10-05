@@ -115,7 +115,7 @@
 ---
 
 ### 🐔 **Poultry Disease Classification System**
-[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/chicken_diesease_classification-_project)
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/ADVANCE_RAG-project)
 - 🔬 **Deep Learning model** for chicken disease detection
 - 📱 **Computer vision application** for agricultural use
 - 🎯 **Image classification** with high accuracy
