@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%26+Data+Scientist;Manufacturing+Engineer+Graduate;Python+%26+ML+Enthusiast;Open+to+Collaborate!&center=true&size=30">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%26+Data+Scientist; Manufacturing+Engineer+Graduate;Python+%26+ML+Enthusiast;Open+to+Collaborate!&center=true&size=30">
   </a>
 </h1>
 
