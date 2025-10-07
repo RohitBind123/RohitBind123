@@ -1,4 +1,4 @@
-<!-- Profile last updated: September 25, 2025 -->
+<!-- Profile last updated: October 07, 2025 -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Hello+World%2C+I'm+Rohit+Bind!;AI+Engineer+%26+Data+Enthusiast;Manufacturing+Engineer+Graduate;Building+the+Future+with+AI" alt="Typing SVG" />
@@ -54,10 +54,12 @@
 ### **Generative AI & LLM Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FAISS-0066CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-00D4FF?style=for-the-badge" />
 </p>
 
 ### **Data & Analytics**
@@ -77,6 +79,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastMCP-00D4FF?style=for-the-badge" />
 </p>
 
 ---
@@ -126,6 +129,40 @@
 **Tech Stack:** ` Python Deep Learning NLP Information Retrieval Weaviate Sentence Transformers Hugging Face`
 
 ---
+
+### 🤖 **LangGraph Multi-Agent AI Applications**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/LangGraph-AI-Applications)
+- 🔄 **State machine workflows** for complex AI agent orchestration
+- 🧠 **Multi-agent systems** with LangGraph framework
+- 🎯 **Cyclic graph execution** for advanced reasoning patterns
+- 🚀 **Production-ready implementations** with conditional edges & routing
+
+**Tech Stack:** `LangGraph` `LangChain` `Python` `State Machines` `Multi-Agent Systems`
+
+---
+
+### 💰 **Model Context Protocol (MCP) Expense Tracker Server**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/expense-tracker-mcp-server)
+- 🔌 **MCP server implementation** for AI-powered expense management
+- 💾 **SQLite database integration** with FastMCP framework
+- 📊 **Real-time expense tracking & analytics** via AI assistants
+- 🎯 **Standardized protocol** for seamless AI tool integration
+
+**Tech Stack:** `FastMCP` `SQLite` `Python` `Model Context Protocol` `AI Integration`
+
+---
+
+### 🌐 **Remote MCP Server Implementation**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/Remote_mcp_server)
+- 🔗 **Remote server architecture** for distributed MCP operations
+- 🚀 **Scalable AI tool integration** across network boundaries
+- ⚡ **Low-latency communication** with optimized protocols
+- 🔧 **Flexible deployment** for production AI applications
+
+**Tech Stack:** `Python` `MCP` `Network Programming` `Distributed Systems`
+
+---
+
 ### 🛡️ **Financial Fraud Detection System**
 [![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123)
 - 🎯 **Mitigated ₹1,400 crore fraud** using QLoRA-DistilBERT
@@ -187,13 +224,13 @@
 
 ---
 
-### **Intelligent PDF Document Parser**
+### 📋 **Intelligent PDF Document Parser**
 [![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/OCR-PDF-Extractor)
-Python application to parse and extract structured content (text, tables, charts) from
-      PDF documents, converting them into a clean, hierarchical JSON format.
+- 🔍 **Advanced OCR-powered extraction** with intelligent detection
+- 📊 **Text, table, and chart parsing** into structured JSON
+- 🎯 **Hierarchical content organization** for downstream processing
 
-**Tech Stack:** ` Python, PyMuPDF (fitz), PDFPlumber, pdfminer.six, Pillow, Pytesseract (Tesseract OCR), Pydantic,
-   Camelot`
+**Tech Stack:** `Python` `PyMuPDF` `PDFPlumber` `Tesseract OCR` `Pydantic` `Camelot`
 
 ---
 
@@ -231,7 +268,8 @@ class RohitBind:
     def current_focus(self):
         return [
             "🔥 Building production-ready AI systems",
-            "🚀 Exploring multi-agent AI architectures", 
+            "🚀 Exploring multi-agent AI architectures with LangGraph", 
+            "🔌 Implementing Model Context Protocol (MCP) servers",
             "📊 Advanced RAG & LLM optimization",
             "🛡️ MLOps & model deployment strategies",
             "🤝 Open source contributions"
@@ -240,6 +278,8 @@ class RohitBind:
     def collaboration_interests(self):
         return [
             "AI/ML research projects",
+            "MCP server development",
+            "Multi-agent AI systems",
             "Open source initiatives",
             "Innovative startup ideas",
             "Data science challenges"
@@ -275,6 +315,7 @@ print("Let's build something amazing together! 🚀")
 - 🤖 I've helped prevent ₹1,400 crore in financial fraud through AI!
 - ⚡ Reduced ML model inference from hours to minutes
 - 🎯 Built systems processing 1000+ transactions per minute
+- 🔌 Actively building Model Context Protocol (MCP) servers for AI integration
 - 🌟 Passionate about bridging AI research and real-world applications
 - 🚀 Always excited to discuss the latest in AI/ML innovations!
 
