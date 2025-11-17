@@ -1,4 +1,4 @@
-<!-- Profile last updated: October 07, 2025 -->
+<!-- Profile last updated: November 18, 2025 -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Hello+World%2C+I'm+Rohit+Bind!;AI+Engineer+%26+Data+Enthusiast;Manufacturing+Engineer+Graduate;Building+the+Future+with+AI" alt="Typing SVG" />
@@ -117,16 +117,68 @@
 
 ---
 
-### **🚀 Advanced (RAG) Hybrid Search & Reranking Engine**
-[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/ADVANCE_RAG)
- 🔬 Advanced RAG System for production-ready document retrieval
-  - 🧠 Hybrid Search implementation combining semantic (E5 embeddings) and lexical (BM25) search
-  - 🎯 Cross-Encoder Reranking using BAAI/bge-reranker-large for precise relevance scoring
-  - 🗺️ Domain-Aware Scoring with intelligent geo-hierarchical matching
-  - 🚀 Reciprocal Rank Fusion (RRF) for optimal result merging from multiple retrieval methods
-  - 💡 Advanced NLP techniques including query expansion, fuzzy matching, and keyword boosting
+### 🎯 **Grammar Score Prediction using Stacking Ensemble**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/Grammar-Score-Prediction-using-Stacking-Ensemble)
+- 🏆 **Stacking ensemble model** (XGBoost + LightGBM + Ridge) achieving **0.53 RMSE**
+- 🎤 **Whisper Large-V3 ASR** (1550M parameters) for automatic speech transcription
+- 🧠 **399-dimensional feature engineering** combining grammar, linguistic, and semantic embeddings
+- 📊 **LanguageTool** with 4000+ rules for grammar feature extraction
+- 🔍 **spaCy NLP pipeline** generating 10 linguistic features (TTR, dependency depth)
+- 💡 **Sentence-BERT embeddings** (384-dim) for semantic coherence analysis
+- ⚡ **GPU-accelerated training** with GridSearchCV (54 XGBoost + 96 LightGBM configs)
+- 🎯 **Meta-model optimization** using RidgeCV for optimal weight learning
 
-**Tech Stack:** ` Python Deep Learning NLP Information Retrieval Weaviate Sentence Transformers Hugging Face`
+**Tech Stack:** `Whisper` `XGBoost` `LightGBM` `Sentence-BERT` `LanguageTool` `spaCy` `Python` `GridSearchCV`
+
+---
+
+### 🌏 **AI Travel Planner Agent (Neo4j + Pinecone Hybrid Search)**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/Neo4j_Pinecone_hybrid_Search)
+- 🗺️ **Dual-database architecture** merging graph and vector search → **35% accuracy boost**
+- 🇻🇳 **Vietnam travel chatbot** processing relationship queries **40% faster** than pure vector
+- 🚀 **Groq LLM integration** with hybrid retrieval delivering sub-2-second latency
+- 📊 **Neo4j graph database** for location relationships and travel connections
+- 🔍 **Pinecone vector database** for semantic similarity search
+- 🎯 **Context-aware responses** combining structured and unstructured data
+
+**Tech Stack:** `Neo4j` `Pinecone` `Groq LLM` `Streamlit` `Python` `Graph Database` `Vector Search`
+
+---
+
+### 🧠 **Self-Corrective RAG System**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/Self_corrective_RAG)
+- 🔄 **Self-corrective retrieval mechanism** with iterative query refinement
+- 🎯 **Relevance grading** using LLM-based document scoring
+- 🔍 **Fallback web search** when knowledge base lacks information
+- 🚀 **LangGraph state machine** for workflow orchestration
+- ⚡ **Adaptive retrieval strategy** based on answer quality assessment
+
+**Tech Stack:** `LangGraph` `LangChain` `Python` `RAG` `Self-Correction` `State Machines`
+
+---
+
+### 🗂️ **LangGraph RAG Implementation**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/LangGraph_Rag)
+- 🔗 **Graph-based RAG workflow** using LangGraph framework
+- 🎯 **Conditional routing** for dynamic retrieval strategies
+- 🔄 **State persistence** across conversation turns
+- 💬 **Multi-turn dialogue** with context management
+- ⚡ **Optimized retrieval pipeline** with caching mechanisms
+
+**Tech Stack:** `LangGraph` `LangChain` `Python` `RAG` `Conversational AI`
+
+---
+
+### 🚀 **Advanced (RAG) Hybrid Search & Reranking Engine**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/ADVANCE_RAG)
+- 🔬 Advanced RAG System for production-ready document retrieval
+- 🧠 Hybrid Search implementation combining semantic (E5 embeddings) and lexical (BM25) search
+- 🎯 Cross-Encoder Reranking using BAAI/bge-reranker-large for precise relevance scoring
+- 🗺️ Domain-Aware Scoring with intelligent geo-hierarchical matching
+- 🚀 Reciprocal Rank Fusion (RRF) for optimal result merging from multiple retrieval methods
+- 💡 Advanced NLP techniques including query expansion, fuzzy matching, and keyword boosting
+
+**Tech Stack:** `Python` `Deep Learning` `NLP` `Information Retrieval` `Weaviate` `Sentence Transformers` `Hugging Face`
 
 ---
 
@@ -149,6 +201,17 @@
 - 🎯 **Standardized protocol** for seamless AI tool integration
 
 **Tech Stack:** `FastMCP` `SQLite` `Python` `Model Context Protocol` `AI Integration`
+
+---
+
+### 📝 **MCP Notes Server & Client Implementation**
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/RohitBind123/Adding_notes_mcp-server-_mcp_client)
+- 🔌 **MCP-compliant notes server** for AI-powered note management
+- 💾 **CRUD operations** via Model Context Protocol
+- 🤖 **AI assistant integration** for seamless note-taking
+- 🎯 **Client-server architecture** demonstrating MCP communication
+
+**Tech Stack:** `FastMCP` `Python` `Model Context Protocol` `Client-Server Architecture`
 
 ---
 
@@ -271,6 +334,7 @@ class RohitBind:
             "🚀 Exploring multi-agent AI architectures with LangGraph", 
             "🔌 Implementing Model Context Protocol (MCP) servers",
             "📊 Advanced RAG & LLM optimization",
+            "🎯 Stacking ensemble models for predictive analytics",
             "🛡️ MLOps & model deployment strategies",
             "🤝 Open source contributions"
         ]
@@ -316,6 +380,7 @@ print("Let's build something amazing together! 🚀")
 - ⚡ Reduced ML model inference from hours to minutes
 - 🎯 Built systems processing 1000+ transactions per minute
 - 🔌 Actively building Model Context Protocol (MCP) servers for AI integration
+- 🏆 Achieved 0.53 RMSE on grammar scoring with stacking ensemble models
 - 🌟 Passionate about bridging AI research and real-world applications
 - 🚀 Always excited to discuss the latest in AI/ML innovations!
 
